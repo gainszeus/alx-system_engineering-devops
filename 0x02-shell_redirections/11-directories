@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -typr d -path './*' -print | wc -l
